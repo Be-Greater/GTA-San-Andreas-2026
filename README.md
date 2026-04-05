@@ -1,3 +1,3 @@
 GTA San Andreas - (Abril 2026)
 
-Estoy dejando la lista de los mejores mods para tener una experiencia moderna en el GTA San Andreas, deben instalar cada mod por seperado.
+Esta es la guía definitiva para tener un GTA San Andreas con gráficos y una jugabilidad morderna, sin perder la esencia o el estilo artístico del juego. Cada uno de estos mods fueron elegidos meticulosamente para tener la experiencia definitiva de este juego.
