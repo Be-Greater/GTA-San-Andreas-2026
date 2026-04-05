@@ -1,4 +1,4 @@
-GTA San Andreas - (Abril 2026)
+<img width="960" height="855" alt="Grand_Theft_Auto_San_Andreas_logo svg" src="https://github.com/user-attachments/assets/fd6b0d88-87b7-4756-a298-39cebcd5a393" />
 
 Esta es la guía definitiva para tener un GTA San Andreas con gráficos y una jugabilidad morderna, sin perder la esencia o el estilo artístico del juego. Cada uno de estos mods fueron elegidos meticulosamente para tener la experiencia definitiva de este juego.
 
