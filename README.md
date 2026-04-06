@@ -15,3 +15,6 @@ IMPORTANTE:
 - [MixSets](https://www.mixmods.com.br/2022/03/sa-mixsets/)
 
 Estos mods corrigen varios errores y nos permiten hacer diferentes ajustes. Es importante instalarlos en orden.
+
+# Correciones/Mejoras
+- [Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) (Carga el juego al instante sin tener que esperar la pantalla de carga)
