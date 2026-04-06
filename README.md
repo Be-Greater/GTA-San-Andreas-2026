@@ -10,4 +10,8 @@ IMPORTANTE:
 - Algunos mods se actualizan cada cierto tiempo, iré actualizando la lista cuando pueda.
 
 ## Mods Esenciales
-- [Essentials Pack]([url](https://www.mixmods.com.br/2019/06/sa-essentials-pack/))
+- [Essentials Pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/)
+- [Open Limit Adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
+- [MixSets](https://www.mixmods.com.br/2022/03/sa-mixsets/)
+
+Estos mods corrigen miles de errores y nos permiten hacer diferentes configuraciones en nuestro juego. Es importante instalarlos en orden.
