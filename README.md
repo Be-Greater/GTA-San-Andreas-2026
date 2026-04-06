@@ -18,3 +18,5 @@ Estos mods corrigen varios errores y nos permiten hacer diferentes ajustes. Es i
 
 # Correciones/Mejoras
 - [Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) (Carga el juego al instante sin tener que esperar la pantalla de carga)
+- [24h TimeCycle](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) (Mejora la iluminación del juego quitando el filtro azul de PC)
+- [24h TimeCycle Fix](https://www.mixmods.com.br/2018/12/24h-fixed-original-timecycle-colours-1-1/) (Es importante usar esta configuración)
