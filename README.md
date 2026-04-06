@@ -18,5 +18,14 @@ Estos mods corrigen varios errores y nos permiten hacer diferentes ajustes. Es i
 
 # Correciones/Mejoras
 - [Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) (Carga el juego al instante sin tener que esperar la pantalla de carga)
-- [24h TimeCycle](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) (Mejora la iluminación del juego quitando el filtro azul de PC)
-- [24h TimeCycle Fix](https://www.mixmods.com.br/2018/12/24h-fixed-original-timecycle-colours-1-1/) (Es importante usar esta configuración)
+- [24h TimeCycle](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) (Mejora el ciclo del tiempo del juego)
+- [Real Linear Graphics](https://www.mixmods.com.br/2022/07/real-linear-graphics/) (Mejora los colores de las texturas del juego, colores realistas)
+- [SkyGfx](https://www.mixmods.com.br/2024/03/sa-skygfx/) (Mejora los gráficos en general, y es necesario para usar Proper Fixes)
+- [Proper Fixes](https://www.mixmods.com.br/2025/11/sa-proper-fixes/) (Corrige miles de errores, debe tener una prioridad mayor que Rosa Project)
+- [Rosa Project Evolved](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/) (Miles de texturas en HD, incluido CJ)
+- [Improved Streaming](https://www.mixmods.com.br/2026/02/improved-streaming/) (Esencial para que las texturas HD carguen correctamente)
+- [Loadscreens 4K Definitive](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/) (Pantallas de carga hasta en 4K)
+- [Mobile Font Fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/) (Textos del juego en HD, extraídos de la versión de moviles)
+- [Atmosphere Interface Pack](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/) (Mejora el menu, HUD y radar del juego en HD)
+
+
