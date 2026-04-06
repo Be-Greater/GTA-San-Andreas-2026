@@ -14,4 +14,4 @@ IMPORTANTE:
 - [Open Limit Adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/)
 - [MixSets](https://www.mixmods.com.br/2022/03/sa-mixsets/)
 
-Estos mods corrigen varios errores y nos permiten hacer diferentes ajustes en nuestro juego. Es importante instalarlos en orden.
+Estos mods corrigen varios errores y nos permiten hacer diferentes ajustes. Es importante instalarlos en orden.
